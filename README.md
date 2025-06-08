@@ -10,6 +10,7 @@ The analysis of consumer complaints reveals key trends in complaint volume, reso
 - Seasonal: Summer recorded the most complaints (17,724), likely due to higher consumer activity.
     
 2. **Top Complaint Categories**
+![](https://github.com/Ani-Favour/CONSUMER-COMPLAINTS-ANALYSIS/blob/main/Most%20Complained%20About%20Product%20OG.png)
 - Most Complained-About Products:
 - Checking/Savings accounts (24,814) and Credit cards (16,197) top the list.
 - Mortgage and credit reporting services also contribute significantly.
@@ -53,9 +54,8 @@ The analysis of consumer complaints reveals key trends in complaint volume, reso
 
 
  ## Datasource
- The dataset for this project is sourced  from Maven Analytics [Website](https://app.mavenanalytics.io/datasets?search=Consumer) designed specifically for practice purpose. The dataset includes key attributes for comprehensive analysis, such as:
+ The dataset for this project is sourced  from Maven Analytics [Website](https://app.mavenanalytics.io/datasets?search=Consumer) designed specifically for practice purpose. The dataset includes key attributes for comprehensive analysis
 
-![](https://github.com/Ani-Favour/CONSUMER-COMPLAINTS-ANALYSIS/blob/main/Most%20Complained%20About%20Product.png)
 
   
 
