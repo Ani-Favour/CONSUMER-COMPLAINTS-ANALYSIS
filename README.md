@@ -8,9 +8,13 @@ The analysis of consumer complaints reveals key trends in complaint volume, reso
 - Yearly: Complaints peaked in 2022 (12,936), showing a steady rise from 2017 before dropping in 2023.
 - Monthly: July had the highest complaints (6,455), while September had the fewest (4,762).
 - Seasonal: Summer recorded the most complaints (17,724), likely due to higher consumer activity.
-    
-2. **Top Complaint Categories**
+
+
+
+
+  
 ![](https://github.com/Ani-Favour/CONSUMER-COMPLAINTS-ANALYSIS/blob/main/Most%20Complained%20About%20Product%20OG.png)
+2. **Top Complaint Categories**
 - Most Complained-About Products:
 - Checking/Savings accounts (24,814) and Credit cards (16,197) top the list.
 - Mortgage and credit reporting services also contribute significantly.
