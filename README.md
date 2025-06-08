@@ -3,5 +3,5 @@ The analysis of consumer complaints reveals key trends in complaint volume, reso
 
 
 ## Key Findings & Insights
-##Complaint Volume Trends
+Complaint Volume Trends
 - Yearly: Complaints peaked in 2022 (12,936), showing a steady rise from 2017 before dropping in 2023.
