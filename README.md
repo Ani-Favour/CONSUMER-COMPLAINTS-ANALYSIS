@@ -53,8 +53,9 @@ The analysis of consumer complaints reveals key trends in complaint volume, reso
 
 
  ## Datasource
- The dataset for this project is sourced  from Maven Analytics [Website](https://app.mavenanalytics.io/datasets?search=Consumer) designed specifically for practice purpose
+ The dataset for this project is sourced  from Maven Analytics [Website](https://app.mavenanalytics.io/datasets?search=Consumer) designed specifically for practice purpose. The dataset includes key attributes for comprehensive analysis, such as:
 
+![](https://github.com/Ani-Favour/CONSUMER-COMPLAINTS-ANALYSIS/blob/main/Most%20Complained%20About%20Product.png)
 
   
 
